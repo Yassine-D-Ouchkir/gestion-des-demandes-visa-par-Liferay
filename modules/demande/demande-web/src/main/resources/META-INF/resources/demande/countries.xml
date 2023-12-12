@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+    <country>
+        <name>États-Unis</name>
+        <code>US</code>
+    </country>
+    <country>
+        <name>Canada</name>
+        <code>CA</code>
+    </country>
+    <country>
+        <name>Royaume-Uni</name>
+        <code>GB</code>
+    </country>
+    <country>
+        <name>Français</name>
+        <code>FR</code>
+    </country>
+    <country>
+        <name>Allemagne</name>
+        <code>DE</code>
+    </country>
+    <country>
+        <name>Japon</name>
+        <code>JP</code>
+    </country>
+    <country>
+        <name>Brésil</name>
+        <code>BR</code>
+    </country>
+    <country>
+        <name>Australie</name>
+        <code>AU</code>
+    </country>
+    <country>
+        <name>Inde</name>
+        <code>IN</code>
+    </country>
+    <country>
+        <name>Afrique du Sud</name>
+        <code>ZA</code>
+    </country>
+</countries>

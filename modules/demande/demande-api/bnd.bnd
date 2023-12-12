@@ -1,0 +1,10 @@
+Bundle-Name: demande-api
+Bundle-SymbolicName: com.liferay.gestion_demande_visa.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.gestion_demande_visa.exception,\
+	com.liferay.gestion_demande_visa.model,\
+	com.liferay.gestion_demande_visa.service,\
+	com.liferay.gestion_demande_visa.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../demande-service/service.xml

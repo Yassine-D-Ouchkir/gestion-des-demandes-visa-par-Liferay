@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.liferay.gestion_demande_visa.model.Demande">
+		<field name="demandeId" type="long" />
+		<field name="groupId" type="long" />
+		<field name="companyId" type="long" />
+		<field name="userId" type="long" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="destination" type="String" />
+		<field name="visaType" type="String" />
+		<field name="tripDate" type="Date" />
+		<field name="tripPurpse" type="String" />
+		<field name="stayDuration" type="String" />
+		<field name="passport" type="long" />
+		<field name="photo" type="long" />
+		<field name="flightReservation" type="long" />
+		<field name="statue" type="String" />
+	</model>
+</model-hints>

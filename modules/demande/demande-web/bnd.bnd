@@ -1,0 +1,4 @@
+Bundle-Name: demande-web
+Bundle-SymbolicName: com.liferay.gestion_demande_visa
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.gestion_demande_visa.constants
